@@ -27,6 +27,7 @@ Copy one row per run into the table below. Keep every run, including failed ones
 
 | Date | Phone model | Android version | JARVIS version | Start % | End % | Duration | Temperature | Notes |
 |------|-------------|-----------------|----------------|---------|-------|----------|-------------|-------|
+| 23-11-2026 | Nothing Phone (per blueprint) | not recorded | none | not controlled | ~50 | 24 h history | not recorded | Usage snapshot from Battery usage screen, not an idle test. Screen time today 2 h 49 m. Top consumer: WhatsApp 48% of usage, with 1 h 47 m background. Not a valid baseline. |
 |      |             |                 | none           |         |       |          |             |       |
 
 ## Pass criteria
