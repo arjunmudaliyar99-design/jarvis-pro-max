@@ -28,6 +28,7 @@ Copy one row per run into the table below. Keep every run, including failed ones
 | Date | Phone model | Android version | JARVIS version | Start % | End % | Duration | Temperature | Notes |
 |------|-------------|-----------------|----------------|---------|-------|----------|-------------|-------|
 | 23-11-2026 | Vivo Y73 (user-reported; screenshot showed Nothing Launcher, to confirm) | not recorded | none | not controlled | ~50 | 24 h history | not recorded | Usage snapshot from Battery usage screen, not an idle test. Screen time today 2 h 49 m. Top consumer: WhatsApp 48% of usage, with 1 h 47 m background. Not a valid baseline. |
+| 23-11-2026 | Vivo V2059 (Y73), confirmed via adb | Android 13 (API 33) | none | 88 (charging via USB) | — | snapshot | 29.1 °C | Snapshot only, charging over USB. Not a valid idle baseline. |
 |      |             |                 | none           |         |       |          |             |       |
 
 ## Pass criteria
